@@ -1,0 +1,17 @@
+@import "reset.css";
+@import "layout.css";
+@import "animation.css";
+@import "responsive.css";
+ /* fonts import */
+@font-face {
+  font-family: 'ModernoThree';
+  src: url('fonts/ModernoThree.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'CSTM_Xprmntl_02_Italic';
+  src: url('fonts/CSTM_Xprmntl_02_Italic.otf') format('opentype');
+}
+@font-face {
+  font-family: 'Oskal';
+  src: url('fonts/Oskal.otf') format('opentype');
+}
